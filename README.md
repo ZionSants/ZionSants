@@ -1,4 +1,4 @@
-# Prazer, me chamo Zion Gabriel.
+# ⚙️ Zion Gabriel
 
 - 🎓 Técnico em informática - IFCE.
 - 📚 Atualmente cursando engenharia de mecatrônica no IFCE.
