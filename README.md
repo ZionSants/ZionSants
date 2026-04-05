@@ -13,11 +13,11 @@
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 
-- 🎓 Técnico em informática - IFCE.
-- 📚 Engenharia de mecatrônica - IFCE.
-- 📫 Contato: santoszion4@gmail.com
+- 🎓 Computer Technician - IFCE.
+- 📚 Mechatronics Engineering - IFCE.
+- 📫 Contact: santoszion4@gmail.com
 
-### </> Linguagens e Tecnologias
+### </> Languages and Technologies
 
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
