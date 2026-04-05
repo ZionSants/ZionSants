@@ -31,4 +31,4 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
 [![Vscode](https://img.shields.io/badge/Vscode-007ACC?logoColor=white)](#)
 
-[![Zion's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZionSants)](https://github.com/ZionSants/github-readme-stats)
+![Zion's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZionSants&show_icons=true&theme=radical)
