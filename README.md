@@ -16,6 +16,7 @@
 - 🎓 Computer Technician - IFCE.
 - 📚 Mechatronics Engineering - IFCE.
 - 📫 Contact: santoszion4@gmail.com
+- 📖 Currently studying C/C++.
 
 ### </> Languages and Technologies
 
